@@ -1,0 +1,3 @@
+prompt {
+  welcome to Amazon
+}
